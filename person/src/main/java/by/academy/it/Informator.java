@@ -1,7 +1,6 @@
 package by.academy.it;
 
-
-public class Infomator 
+public class Infomator
 {
     public static void main( String[] args )
     {
