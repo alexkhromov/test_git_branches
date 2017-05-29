@@ -2,6 +2,8 @@ package by.academy.it;
 
 public class Person {
 
+    //Test cherry pick for merge commit
+
     private Integer age;
     private String name;
     private String surName;
